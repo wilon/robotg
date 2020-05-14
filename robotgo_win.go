@@ -10,7 +10,7 @@
 
 // +build windows
 
-package robotgo
+package robotg
 
 import (
 	"syscall"

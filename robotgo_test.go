@@ -10,7 +10,7 @@
 
 // +build darwin windows
 
-package robotgo
+package robotg
 
 import (
 	"testing"

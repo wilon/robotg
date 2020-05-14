@@ -8,7 +8,7 @@
 // option. This file may not be copied, modified, or distributed
 // except according to those terms.
 
-package robotgo_test
+package robotg_test
 
 import (
 	"fmt"

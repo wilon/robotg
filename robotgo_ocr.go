@@ -10,7 +10,7 @@
 
 // +build ocr
 
-package robotgo
+package robotg
 
 import (
 	"github.com/otiai10/gosseract"

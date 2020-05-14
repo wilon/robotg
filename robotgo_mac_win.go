@@ -10,7 +10,7 @@
 
 // +build darwin windows
 
-package robotgo
+package robotg
 
 // GetBounds get the window bounds
 func GetBounds(pid int32, args ...int) (int, int, int, int) {

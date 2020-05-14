@@ -1,1 +1,1 @@
-package robotgo
+package robotg
